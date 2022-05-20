@@ -1,0 +1,5 @@
+project: rnshah9/jpeginfo
+target: jpeginfo
+
+cmds:
+  - cmd: /repo/jpeginfo @@

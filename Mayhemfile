@@ -2,4 +2,4 @@ project: jpeginfo
 target: jpeginfo
 
 cmds:
-  - cmd: /repo/jpeginfo @@
+  - cmd: /install/bin/jpeginfo @@

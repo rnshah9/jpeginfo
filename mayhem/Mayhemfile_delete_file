@@ -1,0 +1,6 @@
+project: jpeginfo
+target: delete-file
+
+cmds:
+  - cmd: /fuzz_delete_file
+    libfuzzer: true
